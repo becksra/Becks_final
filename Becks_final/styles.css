@@ -47,6 +47,10 @@ h2 {
   color: #2A1106;
 }
 
+a {
+  color: black;
+}
+
 p{
 	max-width: 30ch;
 	margin: 16px auto;
