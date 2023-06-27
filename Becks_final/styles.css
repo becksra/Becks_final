@@ -37,9 +37,10 @@ body{
 
 main{
 	padding: 20px;
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+	text-align: center;
 }
 
 h2 {
