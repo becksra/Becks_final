@@ -5,24 +5,24 @@
 }
 
 h1 {
-  color: #2A1106;
-  text-align: center;
-  padding: 8px;
+	color: #2A1106;
+	text-align: center;
+	padding: 8px;
 }
 
 h1 a {
-  text-decoration: none;
-  color: #C82929;
-  background-color: #EAC4A1;
+	text-decoration: none;
+	color: #C82929;
+	background-color: #EAC4A1;
 }
 
 
 header, footer{
 	padding: 22px;
 	background-image: url("https://hips.hearstapps.com/hmg-prod/images/honeywalnutshrimp1-1643166565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*");
-  text-align: center;
+	text-align: center;
 	color: #2A1106;
-  font-weight: bold;
+	font-weight: bold;
 }
 
 footer p{
@@ -45,7 +45,7 @@ main{
 
 h2 {
 	text-align: center;
-  color: #2A1106;
+    color: #2A1106;
 }
 
 h3{
@@ -54,23 +54,23 @@ h3{
   }
 
 a {
-  color: black;
+    color: black;
 }
 
 p{
 	max-width: 30ch;
 	margin: 16px auto;
-  color: #2A1106;
+    color: #2A1106;
 }
 
 nav {
-  display: inline;
+    display: inline;
 }
 
 nav ul {
-  columns: 4;
-  -webkit-columns: 4;
-  -moz-columns: 4;
+    columns: 4;
+    -webkit-columns: 4;
+    -moz-columns: 4;
 }
 
 nav li {
@@ -79,14 +79,14 @@ nav li {
 }
 
 nav a {
-  display: block;
-  background-color: white;
-  color: #EBA332;
-  padding: 2px 10px 2px 10px;
-  margin: 2px 200px 18px 10px;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 20px;
+	display: block;
+	background-color: white;
+	color: #EBA332;
+	padding: 2px 10px 2px 10px;
+	margin: 2px 200px 18px 10px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
 }
 
 form {
@@ -96,7 +96,8 @@ form {
 	padding: 16px;
 	color: #363432;
 	border: 4px;
-  overflow: hidden;
+  	overflow: hidden;
+	text-align: left;
 }
 
 #name {
